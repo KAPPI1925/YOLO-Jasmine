@@ -18,6 +18,12 @@ The aim is to create a robust vision-based system for **smart agriculture applic
 
 ---
 
+## **YOLO Jasmine Detection Demo (GIF)**  
+Sample detection in action:
+
+![YOLO Jasmine GIF](Models_results/yolov8demo.gif)
+
+
 ## **YOLOv5s Jasmine**
 Sample detection results:
 
